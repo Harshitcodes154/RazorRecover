@@ -7,7 +7,7 @@ import pandas as pd
 # CONFIG
 # =========================================================
 
-API_URL = "https://razorrecover-backend-nxq0.onrender.com/"
+API_URL = "https://razorrecover-backend-nxq0.onrender.com"
 
 st.set_page_config(
     page_title="RazorRecover",
